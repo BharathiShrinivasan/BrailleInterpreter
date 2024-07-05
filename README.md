@@ -1,2 +1,2 @@
 # BrailleInterpreter
-Small repo to store my college (BITS-Pilani) ESD course work
+Simple prototype design of a Visually Impaired aiding device, to interpret signs and alarm in emergency situation
